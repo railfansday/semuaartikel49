@@ -4,186 +4,186 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel49/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:19:17 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:10:58 -0000</lastBuildDate>
     
         <item>
-            <title>Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14935</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14935</guid>
+            <title>Industry News: How to train a new language model from scratch using Transformers and Tokenizers</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15559</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15559</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Introducing 🤗 Accelerate</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14934</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14934</guid>
+            <title>Industry News: How to generate text: using different decoding methods for language generation with Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15558</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15558</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Breaking: Scaling-up BERT Inference on CPU (Part 1)</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14933</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14933</guid>
+            <title>The Reformer - Pushing the limits of language modeling</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15557</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15557</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Using &amp; Mixing Hugging Face Models with Gradio 2.0</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14932</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14932</guid>
+            <title>Block Sparse Matrices for Smaller and Faster Language Models</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15556</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15556</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Industry News: Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14931</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14931</guid>
+            <title>Industry News: Transformer-based Encoder-Decoder Models</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15555</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15555</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Sentence Transformers in the Hugging Face Hub</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14930</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14930</guid>
+            <title>Hyperparameter Search with Transformers and Ray Tune</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15554</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15554</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Breaking: Deploy Hugging Face models easily with Amazon SageMaker</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14929</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14929</guid>
+            <title>Porting fairseq wmt19 translation system to transformers</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15553</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15553</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Welcome spaCy to the Hugging Face Hub</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14928</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14928</guid>
+            <title>Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15552</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15552</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Latest Update: Deep Learning over the Internet: Training Language Models Collaboratively</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14927</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14927</guid>
+            <title>Breaking: How we sped up transformer inference 100x for 🤗 API customers</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15551</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15551</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Introducing Optimum: The Optimization Toolkit for Transformers at Scale</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14926</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14926</guid>
+            <title>Tech Report: Fit More and Train Faster With ZeRO via DeepSpeed and FairScale</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15550</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15550</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Hugging Face and Graphcore partner for IPU-optimized Transformers</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14925</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14925</guid>
+            <title>Faster TensorFlow models in Hugging Face Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15549</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15549</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Summer at Hugging Face</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14924</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14924</guid>
+            <title>Hugging Face on PyTorch / XLA TPUs</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15548</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15548</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Showcase Your Projects in Spaces using Gradio</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14923</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14923</guid>
+            <title>Retrieval Augmented Generation with Huggingface Transformers and Ray</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15547</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15547</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Hosting your Models and Datasets on Hugging Face Spaces using Streamlit</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14922</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14922</guid>
+            <title>Simple considerations for simple people building fancy neural networks</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15546</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15546</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Fine tuning CLIP with Remote Sensing (Satellite) images and captions</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14921</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14921</guid>
+            <title>Hugging Face Reads, Feb. 2021 - Long-range Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15545</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15545</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>The Age of Machine Learning As Code Has Arrived</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14920</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14920</guid>
+            <title>Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15544</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15544</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Train a Sentence Embedding Model with 1B Training Pairs</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14919</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14919</guid>
+            <title>Industry News: My Journey to a serverless transformers pipeline on Google Cloud</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15543</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15543</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Large Language Models: A New Moore's Law?</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14918</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14918</guid>
+            <title>The Partnership: Amazon SageMaker and Hugging Face</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15542</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15542</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Tech Report: Course Launch Community Event</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14917</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14917</guid>
+            <title>Industry News: Understanding BigBird's Block Sparse Attention</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15541</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15541</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Scaling up BERT-like model Inference on modern CPU  - Part 2</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14916</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14916</guid>
+            <title>Deploy Embedding Models with Hugging Face Inference Endpoints</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15540</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15540</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14915</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14915</guid>
+            <title>Interactively explore your Huggingface dataset with one line of code</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15539</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15539</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Accelerating PyTorch distributed fine-tuning with Intel technologies</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14914</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14914</guid>
+            <title>Breaking: Personal Copilot: Train Your Own Coding Assistant</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15538</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15538</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14913</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14913</guid>
+            <title>Breaking: Introducing Storage Regions on the HF Hub</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15537</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15537</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Getting Started with Hugging Face Transformers for IPUs with Optimum</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14912</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14912</guid>
+            <title>Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15536</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15536</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Introducing Snowball Fight ☃️, our first ML-Agents environment</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14911</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14911</guid>
+            <title>Tech Report: Introducing Prodigy-HF: a direct integration with Hugging Face</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15535</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15535</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Training CodeParrot 🦜 from Scratch</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14910</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14910</guid>
+            <title>Make your llama generation time fly with AWS Inferentia2</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15534</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15534</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Perceiver IO: a scalable, fully-attentional model that works on any modality</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14909</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14909</guid>
+            <title>Latest Update: SDXL in 4 steps with Latent Consistency LoRAs</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15533</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15533</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Gradio is joining Hugging Face!</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14908</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14908</guid>
+            <title>Open LLM Leaderboard: DROP deep dive</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15532</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15532</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Breaking: Active Learning with AutoNLP and Prodigy</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14907</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14907</guid>
+            <title>Goodbye cold boot - how we made LoRA Inference 300% faster</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15531</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15531</guid>
             <description>Content not available. → Read original article...</description>
         </item>
         <item>
-            <title>Latest Update: Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker</title>
-            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-14906</link>
-            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-14906</guid>
+            <title>Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code</title>
+            <link>https://railfansday.github.io/semuaartikel49/index.html#artikel-15530</link>
+            <guid>https://railfansday.github.io/semuaartikel49/index.html#artikel-15530</guid>
             <description>Content not available. → Read original article...</description>
         </item>
 </channel>
